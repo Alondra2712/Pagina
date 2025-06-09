@@ -123,7 +123,12 @@ Actualmente, Chalchicomula de Sesma mantiene un sistema de recolección, pero ca
 <!-- Video -->
 <h2 style="margin-top: 30px; color: #388e3c;">Video educativo sobre las 7R</h2>
 <video width="360" height="240" controls>
-<source src="https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4" type="video/mp4">
+<source src="C:\Users\valon\Downloads\las-7r-ytshorts.savetube.me.mp4"
+
+Uploading cuida-el-planeta-haciendo-uso-de-las-7r-ytshorts.savetube.me.mp4…
+
+![Las 7R aplicadas a mi comunidad](https://github.com/user-attachments/assets/d5ce0228-11aa-4fab-823e-df13d32ab640)
+ type="video/mp4">
 </video>
 </div>
 <h2 style="margin-top: 30px; color: #388e3c;">Audio informativo</h2>
