@@ -5,7 +5,7 @@
 <div style="background-color: #f1fff0; padding: 25px; font-family: Arial, sans-serif;">
 <body>
 <div style="text-align: center;">
-<img src="C:\Users\valon\Downloads\Las 7R aplicadas a mi comunidad.gif"  width="1300">
+<img src="las-7r.gif" width="90%" alt="Portada de las 7R">
 </div>
 </body>
 <h2 style="color: #388e3c;">¿Qué son las 7R?</h2>
@@ -34,7 +34,7 @@ Las 7R representan un conjunto de acciones responsables que podemos aplicar en n
 </details>
 <Imagen con pie de foto>
 <figure style="text-align: center; margin: 20px auto;">
-<img src="C:\Users\valon\Downloads\7-r-reciclaje-768x644.jpg" alt="Diagrama de las 7R del reciclaje" width="400" style="border-radius: 8px;">
+<img src="reciclaje.jpg" width="400" alt="Diagrama 7R" style="border-radius: 8px;">
 <figcaption style="font-style: italic; margin-top: 8px;">Representación gráfica de las 7R del cuidado ambiental.</figcaption>
 </figure>
 <Aplicación en la comunidad>
@@ -123,7 +123,7 @@ Actualmente, Chalchicomula de Sesma mantiene un sistema de recolección, pero ca
 <!-- Video -->
 <h2 style="margin-top: 30px; color: #388e3c;">Video educativo sobre las 7R</h2>
 <video width="360" height="240" controls>
-<source src="C:\Users\valon\Downloads\las-7r-ytshorts.savetube.me.mp4"
+<source src="audio-7r.mp3" type="audio/mpeg">
 
 Uploading cuida-el-planeta-haciendo-uso-de-las-7r-ytshorts.savetube.me.mp4…
 
